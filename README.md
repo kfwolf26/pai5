@@ -100,21 +100,12 @@ pai5/
 | `prediction_data.json`  | 预测模型生成数据   |
 | `saved_predictions.json`| 用户保存的预测结果 |
 
-## 测试
-
-项目附带多个冒烟测试脚本，可用于验证各模块基本功能：
-
-```bash
-python _smoke_test_backtest.py
-python _smoke_test_history_query.py
-python _smoke_test_pred_model.py
-python _smoke_test_pl5.py
-python _smoke_test_ldd_backtest.py
-```
 
 ## 免责声明
 
 本项目仅用于学习与技术研究，不构成任何购彩建议。彩票具有随机性，请理性消费，量力而行。
+
+[![Liberapay](https://img.shields.io/liberapay/receives/kfwolf?logo=liberapay)](https://liberapay.com/kfwolf/donate)
 
 ## License
 
